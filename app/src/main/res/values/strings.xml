@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Random Biri Generator</string>
+    <string name="titleName">Welcome To BiriKhor Masterrace</string>
+    <string name="proceed">Proceed</string>
+    <string name="appicon">appIcon</string>
+    <string name="warning">Warning: Smoking is injurious to health</string>
+    <string name="todo">TODO</string>
+    <string name="presstogenerate">Press the generate key to generate random cigarette brands</string>
+    <string name="generate">Generate</string>
+    <string name="prochur_jontrona">Prochur jontrona</string>
+    <string name="it_s_a_good_day_to_puff">It\'s a good moment to puff:</string>
+    <string-array name="biri">
+        <item name="bensonGold">Benson Gold</item>
+        <item name="bensonLight">Benson Light</item>
+        <item name="marlboroGold">Marlboro Gold</item>
+        <item name="marlboroLight">Marlboro Light</item>
+        <item name="goldLeafRegular">GoldLeaf Regular</item>
+        <item name="goldLeafSwitch">GoldLeaf Switch</item>
+    </string-array>
+</resources>
